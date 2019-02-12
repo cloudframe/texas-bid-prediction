@@ -31,7 +31,7 @@ Send a description of what you did and model metrics that show how the model per
 Do NOT send code or model objects.
 
 ## The Next Steps
-If you're willing and your submission warrants, we'll ask for a follow-on interview.  During that conversation we'll be figuring out if there's a mutual fit between your career aspirations and CloudFrame's opportunities for Data Scientists.  Relevant to this submission, we'll ask you to walk through, in code, how you tuned the chosen algorithm and trained the best model.  We'll want you to describe the entire process verbally, including:
+If you're willing and your submission warrants, we'll ask for a follow-on interview.  During that conversation we'll be figuring out if there's a mutual fit between your career aspirations and Cloudframe's opportunities for Data Scientists.  Relevant to this submission, we'll ask you to walk through, in code, how you tuned the chosen algorithm and trained the best model.  We'll want you to describe the entire process verbally, including:
 * Data munging.
 * Data visualization and exploration.
 * Feature engineering.
