@@ -1,7 +1,7 @@
 # Predicting Bid Outcomes for Texas DOT Road Construction Projects
 Do your best with the attached data and problem as it's described here, and let us know how you did <work@cloudframe.io>.
 
-<https://xkcd.com/356/>
+![](https://xkcd.com/356/)
 
 ## The Data
 The file titled `texas-bids.csv` contains a set of public road construction project letting results from the State of Texas Department of Transportation.  Most of the fields are self explanatory, but are defined here.  Each row corresponds to a single project.  We may update this repository with newer data from time to time.
